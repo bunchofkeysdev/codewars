@@ -3,3 +3,6 @@ function bigToSmall(arr) {
     return array.sort((a, b) => b - a).join('>')
 
 }
+
+// shorter
+const bigToSmall = arr => [].concat(...arr).sort((a, b) => b - a).join('>')
