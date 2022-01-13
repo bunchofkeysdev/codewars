@@ -1,0 +1,1 @@
+const maskify = cc => cc.split('').fill('#', 0, -4).join('')
