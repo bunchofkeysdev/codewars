@@ -7,3 +7,8 @@ function keysAndValues(data) {
     }
     return [keyArray, valueArray]
 }
+
+// second
+function keysAndValues(data) {
+    return [Object.keys(data), Object.values(data)];
+}
