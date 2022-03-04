@@ -14,3 +14,17 @@ function rowWeights(array) {
         } return newArray
     }
 }
+
+// refactored 
+function rowWeights(array) {
+    let newArray = [0, 0]
+
+    for (let i = 0; i < array.length; i++) {
+        if (i % 2 === 0) {
+            newArray[0] += array[i]
+        } else {
+            newArray[1] += array[i]
+        }
+    } return newArray
+
+}
