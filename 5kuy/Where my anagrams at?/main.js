@@ -9,3 +9,11 @@ function anagrams(word, words) {
     })
     return wordsIndex.map(e => words[e])
 }
+
+// shorter
+
+let anagrams2 = (word, words) => {
+    word = word.split('').sort().join('')
+    return words.filter(w => w.split('').sort().join('') === word)
+
+}
