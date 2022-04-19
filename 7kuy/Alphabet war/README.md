@@ -26,3 +26,4 @@ alphabetWar("wwwwwwz");  //=> Left side wins!
 
 
 ## Link to Kata
+https://www.codewars.com/kata/59377c53e66267c8f6000027
