@@ -1,3 +1,7 @@
 function solution(str, ending) {
-    return str.slice(ending.length - 1) === ending
+    return str.slice(-ending.length) === ending || ending == ''
 }
+
+
+// second
+const solution = (str, ending) => str.slice(-ending.length) === ending || ending == ""
