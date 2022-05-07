@@ -5,3 +5,8 @@ function rowSumOddNumbers(n) {
 // shorter
 
 const rowSumOddNumbers = n => n * n * n
+
+// math
+function rowSumOddNumbers(n) {
+    return Math.pow(n, 3);
+}
