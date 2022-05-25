@@ -6,3 +6,6 @@ The function takes a name as its only argument, and returns one of the following
 name + " plays banjo" 
 name + " does not play banjo"
 Names given are always valid strings.
+
+## Link to kata
+https://www.codewars.com/kata/53af2b8861023f1d88000832
