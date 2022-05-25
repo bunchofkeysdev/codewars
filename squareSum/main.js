@@ -1,3 +1,3 @@
-function digitize(n) {
-    return n.toString().split('').reverse().map(Number)
+function squareSum(numbers){
+return numbers.map(x=>Math.pow(x,2)).reduce((a,b)=>a+b,0)
 }
