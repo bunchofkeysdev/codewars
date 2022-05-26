@@ -11,3 +11,6 @@ Example
 text before = "abc"
 character   = "z"
 text after  = "zzz"
+
+## Link to kata
+https://www.codewars.com/kata/596fba44963025c878000039

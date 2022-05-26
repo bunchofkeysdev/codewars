@@ -9,3 +9,6 @@ Given a year, return the century it is in.
 1900 --> 19
 1601 --> 17
 2000 --> 20
+
+## Link to kata
+https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097

@@ -17,3 +17,6 @@ You can assume that you do get an array and if the array is empty, return 0.
 What We're Testing
 We're testing basic loops and math operations. This is for beginners who are just learning loops and math operations.
 Advanced users may find this extremely easy and can easily write this in one line.
+
+## Link to Kata
+https://www.codewars.com/kata/53dc54212259ed3d4f00071c

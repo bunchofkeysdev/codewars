@@ -8,3 +8,6 @@ The function should return result of numbers after applying the chosen operation
 ('-', 15, 18) --> -3
 ('*', 5, 5) --> 25
 ('/', 49, 7) --> 7
+
+## Link to kata
+https://www.codewars.com/kata/57356c55867b9b7a60000bd7

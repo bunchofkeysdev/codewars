@@ -14,3 +14,6 @@ If the input string is empty or the removal of the first and last items would ca
 ""     =>  NULL
 "1"    =>  NULL
 "1,2"  =>  NULL
+
+## Link to Kata
+https://www.codewars.com/kata/570597e258b58f6edc00230d

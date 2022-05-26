@@ -8,3 +8,6 @@ isPalindrome("anna")   ==> true
 isPalindrome("walter") ==> false
 isPalindrome(12321)    ==> true
 isPalindrome(123456)   ==> false
+
+## Link to kata
+https://www.codewars.com/kata/57a5015d72292ddeb8000b31

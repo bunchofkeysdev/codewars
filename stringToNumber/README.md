@@ -8,3 +8,6 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 "605"  --> 605
 "1405" --> 1405
 "-7" --> -7
+
+## Link to kata
+https://www.codewars.com/kata/544675c6f971f7399a000e79

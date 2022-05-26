@@ -7,3 +7,6 @@ It should look like this:
 Sam Harris => S.H
 
 patrick feeney => P.F
+
+## Link to kata
+https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3

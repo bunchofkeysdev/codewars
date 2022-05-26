@@ -3,3 +3,6 @@ It's the academic year's end, fateful moment of your school report. The averages
 Return the average of the given array rounded down to its nearest integer.
 
 The array will never be empty.
+
+## Link to Kata
+https://www.codewars.com/kata/563e320cee5dddcf77000158

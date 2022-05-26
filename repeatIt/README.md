@@ -7,3 +7,6 @@ If anything other than a string is passed in you should return "Not a string"
 ## Example
 "Hi", 2 --> "HiHi"
 1234, 5 --> "Not a string"
+
+## Link to kata
+https://www.codewars.com/kata/557af9418895e44de7000053
