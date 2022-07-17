@@ -1,0 +1,1 @@
+const describeAge = (age, line = "You're a(n)") => age <= 12 ? line + " kid" : age <= 17 ? line + " teenager" : age <= 64 ? line + " adult" : line + " elderly"
