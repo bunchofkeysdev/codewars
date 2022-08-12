@@ -20,3 +20,14 @@ function htmlspecialchars(formData) {
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;");
 }
+
+// third
+function htmlspecialchars(formData) {
+    const dict = {
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        '&': '&amp;',
+    };
+    return formData.replace(/[<>"&]/g, char => dict[char]);
+}
