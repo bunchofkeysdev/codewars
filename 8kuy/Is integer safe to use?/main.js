@@ -9,3 +9,6 @@ const SafeInteger = n => n <= Number.MAX_SAFE_INTEGER
 function SafeInteger(n) {
     return Number.isSafeInteger(n);
 }
+
+// alt 2
+const SafeInteger = n => Number.isSafeInteger(n)
