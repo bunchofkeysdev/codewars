@@ -4,3 +4,8 @@ function SafeInteger(n) {
 
 // shorter
 const SafeInteger = n => n <= Number.MAX_SAFE_INTEGER
+
+// alt
+function SafeInteger(n) {
+    return Number.isSafeInteger(n);
+}
