@@ -14,3 +14,4 @@ Examples
 * Input: [2,2,1,2,1], output = [2,2,2,1]
 
 ## Link to Kata
+https://www.codewars.com/kata/563cf89eb4747c5fb100001b
