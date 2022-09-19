@@ -1,1 +1,2 @@
 ## Link to Kata
+https://www.codewars.com/kata/5b16490986b6d336c900007d
