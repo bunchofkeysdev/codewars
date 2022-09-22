@@ -22,3 +22,4 @@ Note
 You can see other examples for each language in "Your test cases"
 
 ## Link to Kata
+https://www.codewars.com/kata/56f3a1e899b386da78000732
