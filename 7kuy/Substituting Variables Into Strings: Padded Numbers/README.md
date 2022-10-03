@@ -5,3 +5,4 @@ Example:
 solution(5) // should return "Value is 00005"
 
 ## Link to Kata
+https://www.codewars.com/kata/51c89385ee245d7ddf000001
