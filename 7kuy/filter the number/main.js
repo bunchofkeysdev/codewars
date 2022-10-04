@@ -1,0 +1,1 @@
+const FilterString = value => +(value.split('').filter(e => +e == e).join(''))
