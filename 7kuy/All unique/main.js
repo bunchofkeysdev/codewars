@@ -7,3 +7,6 @@ function hasUniqueChars(str) {
         }
     } return true
 }
+
+// better
+let hasUniqueChars = str => new Set(str).size === str.length;
