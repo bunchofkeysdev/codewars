@@ -5,3 +5,6 @@ function spacify(str) {
     }
     return newStr.trimEnd()
 }
+
+// better
+const spacify = str => [...str].join(' ');
