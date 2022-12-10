@@ -1,0 +1,4 @@
+Description
+
+## Link to Kata
+https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819
