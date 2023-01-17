@@ -10,6 +10,7 @@ function outed(meet, boss){
   }
    return arr.reduce((a,b)=>a+b,0) /arr.length <= 5 ? "Get Out Now!" : "Nice Work Champ!"
   }
+  
 //   second
 function outed(meet, boss) {
     let names = Object.keys(meet)
