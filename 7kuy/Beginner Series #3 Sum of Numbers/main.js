@@ -7,3 +7,7 @@ function getSum(a, b) {
   }
   return list.reduce((a, b) => a + b, 0);
 }
+// refractor
+function GetSum(a, b) {
+  return ((Math.abs(a - b) + 1) * (a + b)) / 2;
+}
