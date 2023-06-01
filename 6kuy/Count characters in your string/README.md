@@ -5,4 +5,4 @@ What if the string is empty? Then the result should be empty object literal, {}.
 
 ## Link to Kata
 
-Link
+https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript
