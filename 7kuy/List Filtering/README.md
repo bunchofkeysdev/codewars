@@ -8,4 +8,4 @@ filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
 ## Link to Kata
 
-Link
+https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
