@@ -1,1 +1,1 @@
-const longest = (s1, s2) => [...new Set((s1 + s2).split("").sort())].join("");
+const longest = (a, b) => [...new Set(a + b)].sort().join("");
