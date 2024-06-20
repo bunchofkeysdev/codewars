@@ -3,4 +3,4 @@ Write a function that merges two sorted arrays into a single one. The arrays onl
 
 ## Link to Kata
 
-Link
+https://www.codewars.com/kata/573f5c61e7752709df0005d2
