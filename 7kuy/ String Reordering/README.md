@@ -17,4 +17,4 @@ Output:
 
 ## Link to Kata
 
-Link
+https://www.codewars.com/kata/5b047875de4c7f9af800011b
