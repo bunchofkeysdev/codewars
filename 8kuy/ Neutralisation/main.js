@@ -9,3 +9,9 @@ function neutralise(s1, s2) {
   }
   return newArr.join("");
 }
+// REFACTORED #ONE LINE
+const neutralise = (s1, s2) => {
+  s1.split("")
+    .map((x, i) => (x == s2[i] ? x : "0"))
+    .join("");
+};
