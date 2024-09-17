@@ -8,4 +8,4 @@ For example, given the following input array:
 
 ## Link to Kata
 
-Link
+https://www.codewars.com/kata/5828713ed04efde70e000346
